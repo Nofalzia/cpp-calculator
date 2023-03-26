@@ -46,7 +46,7 @@ int main()
 		cout << "Answer is:" << a % b;
 		break;
 	default:
-		cout << "!!wrong input!!";
+		cout << "!!Please input integer values and choose the operators mentioned in the prompt!!";
 		break;
 	}
 }
