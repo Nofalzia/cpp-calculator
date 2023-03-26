@@ -7,7 +7,7 @@ int main()
 {
 	//declaring variables
 	char operation;
-	int a, b;
+	float a, b;
 
 	//taking input the values a and b
 	cout << "Input the values\n";
